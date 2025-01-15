@@ -1,7 +1,7 @@
 
 # Nestlé Clone
 
-This project is a replica of the official Nestlé website, designed and developed using HTML, CSS, and JavaScript. It aims to provide a similar look and feel to the Nestlé homepage while showcasing modern web design practices, including responsive layouts and interactive elements.
+This project is a replica of the official Nestlé website, designed and developed using HTML, CSS.
 
 ## Demo Live
 
